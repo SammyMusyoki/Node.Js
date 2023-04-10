@@ -1,0 +1,19 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "description": "Learning Node for the first time",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Sammy Musyoki",
+  "license": "ISC",
+  "dependencies": {
+    "path": "^0.12.7",
+    "require": "^2.4.20",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
